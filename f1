@@ -1,0 +1,12 @@
+/* eslint prefer-const: 0, prefer-template: 0 */
+2
+3let info = "We couldn't verify your mother's maiden name.";
+4let intro = 'Here is important information about your account security.';
+5
+6let firstName = 'Joffrey';
+7let greeting = 'Hello';
+8
+9// BEGIN (write your solution here)
+10console.log(greeting + ', ' + firstName + '!');
+11console.log(intro + '\n' + info);
+12// END
