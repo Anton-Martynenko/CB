@@ -1,0 +1,8 @@
+1import { length } from 'hexlet-basics/string';
+2
+3const text = 'Never forget what you are, for surely the world will not';
+4
+5// BEGIN (write your solution here)
+6const result = text[0];
+7console.log(`First: ${result}\nLast: ${text[length(text) - 1]}`);
+8// END
