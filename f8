@@ -1,0 +1,5 @@
+•	1const text = 'a MIND needs Books as a Sword needS a WHETSTONE, if it is to keep its edge.';
+•	2
+•	3// BEGIN (write your solution here)
+•	4console.log(text.toLowerCase());
+•	5// END
