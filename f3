@@ -1,0 +1,9 @@
+1import { length } from 'hexlet-basics/string';
+2
+3const company1 = 'Apple';
+4const company2 = 'Samsung';
+5
+6// BEGIN (write your solution here)
+7const result = length(company1) + length(company2);
+8console.log(result);
+9// END
