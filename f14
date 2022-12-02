@@ -1,0 +1,11 @@
+1/* eslint-disable arrow-body-style */
+2
+3// BEGIN (write your solution here)
+4const sayHurrayThreeTimes = () => {
+5  const text = 'hurray!';
+6  const result = (`${text} ${text} ${text}`);
+7  return result;
+8};
+9// END
+10
+11export default sayHurrayThreeTimes;
