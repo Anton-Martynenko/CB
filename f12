@@ -1,0 +1,7 @@
+1/* eslint no-tabs: 0 */
+2
+3const text = 'When \t\n you play a \t\n game of thrones you win or you die.';
+4
+5// BEGIN (write your solution here)
+6console.log(text.slice(5, 15).trim().length.toString());
+7// END
